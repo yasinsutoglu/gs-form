@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background-image: url("https://cdn.wallpapersafari.com/39/0/fs3r1W.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+form{
+    margin:5vh;
+    font-size: 1.3rem;
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
